@@ -1,4 +1,4 @@
-module github.com/asoorm/go-wasm
+module github.com/asoorm/proxy-wasm
 
 go 1.16
 
